@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "LINE课题组老师介绍"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
