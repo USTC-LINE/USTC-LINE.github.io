@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "杨亮"
+  name             : "yangliang"
   avatar           : "123.png"
-  bio              : "每天高效工作9小时"
-  location         : "江苏苏州"
+  bio              : "work at least 9 hours a day"
+  location         : "jiangsu suzhou "
   employer         :
   pubmed           :#"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :#"http://yourfullgooglescholarurl.com"
