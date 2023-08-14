@@ -85,8 +85,8 @@ author:
   bio              : "每天高效工作9小时"
   location         : "江苏苏州"
   employer         :
-  pubmed           :# "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :#"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    :#"http://yourfullgooglescholarurl.com"
   email            :"ygliang@ustc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
