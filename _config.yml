@@ -85,9 +85,9 @@ author:
   bio              : "work at least 9 hours a day"
   location         : "jiangsu suzhou "
   employer         :
-  pubmed           :#"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    :#"http://yourfullgooglescholarurl.com"
-  email            :"ygliang@ustc.edu.cn"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "ygliang@ustc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
